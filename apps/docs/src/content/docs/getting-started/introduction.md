@@ -11,9 +11,9 @@ CRM pipeline bundle — leads, deals, interactions, sequences
 
 This project is part of the [Minions ecosystem](https://github.com/mxn2020/minions) and provides:
 
-- **TypeScript SDK** (`@mxn2020/minions-bundles-crm-sdk`) — Core library for Node.js
+- **TypeScript SDK** (`@minions-bundles-crm/sdk`) — Core library for Node.js
 - **Python SDK** (`minions-bundles-crm`) — Python bindings
-- **CLI Tool** (`@mxn2020/minions-bundles-crm-cli`) — Command-line interface
+- **CLI Tool** (`@minions-bundles-crm/cli`) — Command-line interface
 - **Web App** — Interactive playground at [app.minions.wtf](https://app.minions.wtf)
 
 ## Next Steps

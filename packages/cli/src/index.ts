@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * @mxn2020/minions-bundles-crm-cli — CLI for Minions Bundle: Crm
+ * @minions-bundles-crm/cli — CLI for Minions Bundle: Crm
  *
  * Uses minions-sdk's JsonFileStorageAdapter for sharded, atomic file storage:
  *   <rootDir>/<id[0..1]>/<id[2..3]>/<id>.json
@@ -18,7 +18,7 @@ import {
 } from 'minions-sdk';
 import type { Minion, StorageFilter } from 'minions-sdk';
 import { JsonFileStorageAdapter } from 'minions-sdk/node';
-import { bundleTypes as customTypes } from '@mxn2020/minions-bundles-crm-sdk';
+import { bundleTypes as customTypes } from '@minions-bundles-crm/sdk';
 
 const program = new Command();
 const STORE_DIR = process.env.MINIONS_STORE || '.minions';
@@ -61,8 +61,8 @@ program
         console.log(chalk.bold('Minions Bundle: Crm'));
         console.log(chalk.dim('CRM pipeline bundle — leads, deals, interactions, sequences'));
         console.log('');
-        console.log(`  SDK:    ${chalk.cyan('@mxn2020/minions-bundles-crm-sdk')}`);
-        console.log(`  CLI:    ${chalk.cyan('@mxn2020/minions-bundles-crm-cli')}`);
+        console.log(`  SDK:    ${chalk.cyan('@minions-bundles-crm/sdk')}`);
+        console.log(`  CLI:    ${chalk.cyan('@minions-bundles-crm/cli')}`);
         console.log(`  Python: ${chalk.cyan('minions-bundles-crm')}`);
         console.log(`  Store:  ${chalk.cyan(STORE_DIR)}`);
         console.log(`  Types:  ${chalk.cyan(String(customTypes.length))}`);

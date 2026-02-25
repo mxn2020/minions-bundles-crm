@@ -6,7 +6,7 @@ description: "Get up and running with Minions Bundle: Crm in minutes"
 ## TypeScript
 
 ```typescript
-import { createClient } from '@mxn2020/minions-bundles-crm-sdk';
+import { createClient } from '@minions-bundles-crm/sdk';
 
 const client = createClient();
 console.log('Version:', client.version);

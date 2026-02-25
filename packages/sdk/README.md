@@ -1,17 +1,17 @@
-# @mxn2020/minions-bundles-crm-sdk
+# @minions-bundles-crm/sdk
 
 CRM pipeline bundle — leads, deals, interactions, sequences
 
 ## Installation
 
 ```bash
-npm install @mxn2020/minions-bundles-crm-sdk minions-sdk
+npm install @minions-bundles-crm/sdk minions-sdk
 ```
 
 ## Usage
 
 ```typescript
-import { createMinion } from '@mxn2020/minions-bundles-crm-sdk';
+import { createMinion } from '@minions-bundles-crm/sdk';
 
 // TODO: Add your SDK's usage example here
 ```

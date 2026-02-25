@@ -1,6 +1,6 @@
 ---
 title: TypeScript API
-description: "TypeScript API reference for @mxn2020/minions-bundles-crm-sdk"
+description: "TypeScript API reference for @minions-bundles-crm/sdk"
 ---
 
 ## `createClient(options?)`
@@ -8,7 +8,7 @@ description: "TypeScript API reference for @mxn2020/minions-bundles-crm-sdk"
 Create a new client instance.
 
 ```typescript
-import { createClient } from '@mxn2020/minions-bundles-crm-sdk';
+import { createClient } from '@minions-bundles-crm/sdk';
 
 const client = createClient({ debug: true });
 ```

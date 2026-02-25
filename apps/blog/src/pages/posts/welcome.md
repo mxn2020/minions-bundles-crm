@@ -10,9 +10,9 @@ We're excited to introduce **Minions Bundle: Crm** — CRM pipeline bundle — l
 
 ## What's Included
 
-- **TypeScript SDK**: `npm install @mxn2020/minions-bundles-crm-sdk`
+- **TypeScript SDK**: `npm install @minions-bundles-crm/sdk`
 - **Python SDK**: `pip install minions-bundles-crm`
-- **CLI**: `npm install -g @mxn2020/minions-bundles-crm-cli`
+- **CLI**: `npm install -g @minions-bundles-crm/cli`
 
 ## Getting Started
 

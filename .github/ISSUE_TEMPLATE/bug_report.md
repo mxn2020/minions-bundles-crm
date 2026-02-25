@@ -16,5 +16,5 @@ What you expected to happen.
 
 **Environment**
 - Node.js version:
-- @mxn2020/minions-bundles-crm-sdk version:
+- @minions-bundles-crm/sdk version:
 - OS:

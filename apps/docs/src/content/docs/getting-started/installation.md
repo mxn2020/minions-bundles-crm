@@ -6,7 +6,7 @@ description: "Install Minions Bundle: Crm packages"
 ## TypeScript / Node.js
 
 ```bash
-npm install @mxn2020/minions-bundles-crm-sdk minions-sdk
+npm install @minions-bundles-crm/sdk minions-sdk
 ```
 
 ## Python
@@ -18,7 +18,7 @@ pip install minions-bundles-crm
 ## CLI
 
 ```bash
-npm install -g @mxn2020/minions-bundles-crm-cli
+npm install -g @minions-bundles-crm/cli
 ```
 
 ## Requirements

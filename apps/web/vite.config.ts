@@ -11,7 +11,7 @@ export default defineConfig({
     },
     base: '/',
     optimizeDeps: {
-        include: ['@mxn2020/minions-bundles-crm-sdk'],
+        include: ['@minions-bundles-crm/sdk'],
     },
     build: {
         commonjsOptions: {
