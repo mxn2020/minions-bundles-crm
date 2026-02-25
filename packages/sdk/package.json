@@ -1,5 +1,5 @@
 {
-  "name": "@mxn2020/minions-bundles-crm-core",
+  "name": "@mxn2020/minions-bundles-crm-sdk",
   "version": "0.1.0",
   "description": "CRM pipeline bundle — leads, deals, interactions, sequences",
   "type": "module",

@@ -18,7 +18,7 @@ import {
 } from 'minions-sdk';
 import type { Minion, StorageFilter } from 'minions-sdk';
 import { JsonFileStorageAdapter } from 'minions-sdk/node';
-import { bundleTypes as customTypes } from '@mxn2020/minions-bundles-crm-core';
+import { bundleTypes as customTypes } from '@mxn2020/minions-bundles-crm-sdk';
 
 const program = new Command();
 const STORE_DIR = process.env.MINIONS_STORE || '.minions';
@@ -61,7 +61,7 @@ program
         console.log(chalk.bold('Minions Bundle: Crm'));
         console.log(chalk.dim('CRM pipeline bundle — leads, deals, interactions, sequences'));
         console.log('');
-        console.log(`  SDK:    ${chalk.cyan('@mxn2020/minions-bundles-crm-core')}`);
+        console.log(`  SDK:    ${chalk.cyan('@mxn2020/minions-bundles-crm-sdk')}`);
         console.log(`  CLI:    ${chalk.cyan('@mxn2020/minions-bundles-crm-cli')}`);
         console.log(`  Python: ${chalk.cyan('minions-bundles-crm')}`);
         console.log(`  Store:  ${chalk.cyan(STORE_DIR)}`);
