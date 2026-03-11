@@ -6,3 +6,4 @@ description: "CRM pipeline bundle — leads, deals, interactions, sequences"
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
