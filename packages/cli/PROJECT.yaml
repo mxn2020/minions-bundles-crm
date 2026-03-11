@@ -1,0 +1,8 @@
+name: "@minions-bundles-crm/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-bundles-crm-workspace
+description: "CLI for minions-bundles-crm — CRM pipeline bundle — leads, deals, interactions, sequences"
+priority: high
+deploy_url: null
+tags: null

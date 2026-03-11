@@ -1,0 +1,8 @@
+name: minions-bundles-crm-web
+project_scope: child
+child_type: web-app
+parent_project: minions-bundles-crm-workspace
+description: Standard compliance definition for minions-bundles-crm-web
+priority: high
+deploy_url: null
+tags: null

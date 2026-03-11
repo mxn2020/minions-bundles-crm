@@ -1,0 +1,8 @@
+name: "@minions-bundles-crm/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-bundles-crm-workspace
+description: "CRM pipeline bundle — leads, deals, interactions, sequences"
+priority: high
+deploy_url: null
+tags: null

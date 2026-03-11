@@ -1,0 +1,8 @@
+name: minions-bundles-crm-docs
+project_scope: child
+child_type: docs
+parent_project: minions-bundles-crm-workspace
+description: Standard compliance definition for minions-bundles-crm-docs
+priority: high
+deploy_url: null
+tags: null

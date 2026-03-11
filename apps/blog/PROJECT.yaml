@@ -1,0 +1,8 @@
+name: minions-bundles-crm-blog
+project_scope: child
+child_type: blog
+parent_project: minions-bundles-crm-workspace
+description: Standard compliance definition for minions-bundles-crm-blog
+priority: high
+deploy_url: null
+tags: null
