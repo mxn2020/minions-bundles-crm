@@ -1,0 +1,16 @@
+name: minions-bundles-crm-workspace
+project_scope: main
+project_type: monorepo
+description: CRM pipeline bundle — leads, deals, interactions, sequences
+tier: prototype
+lane: minions-platform
+priority: medium
+oss: true
+stack: ["typescript"]
+repo: "https://github.com/mxn2020/minions-bundles-crm"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["minions-bundles-crm-workspace", "minions", "toolbox", "bundle"]
+notes: null
+id: null
+category: minion-toolbox
