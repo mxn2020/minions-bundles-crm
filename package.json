@@ -2,7 +2,7 @@
   "name": "minions-bundles-crm-workspace",
   "private": true,
   "version": "0.1.1",
-  "description": "CRM pipeline bundle \u2014 leads, deals, interactions, sequences",
+  "description": "CRM pipeline bundle — leads, deals, interactions, sequences",
   "type": "module",
   "license": "MIT",
   "author": "Mehdi Nabhani <mehdi@the-mehdi.com> (https://the-mehdi.com)",
