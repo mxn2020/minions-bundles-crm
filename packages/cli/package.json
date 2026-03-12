@@ -1,6 +1,6 @@
 {
   "name": "@minions-bundles-crm/cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CLI for minions-bundles-crm — CRM pipeline bundle — leads, deals, interactions, sequences",
   "license": "MIT",
   "repository": {
